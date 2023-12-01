@@ -1,5 +1,5 @@
-# Currency-Converter
-A Currency Converter App That Convert The Currency
+# Language-Translator
+A Language Translator App That Translate The Language
 • Page Structured Using HTML 
 • Designed Using CSS 
 • Responsive Using Bootstrap 
